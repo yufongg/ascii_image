@@ -1,0 +1,26 @@
+	 												Welcome to our tool!
+									       Select an option!	       /
+											\           /\_/\____,
+											  ,___/\_/\ \  ~     /
+											  \     ~  \ )   XXX   View compiled output @scan_results
+											    XXX     /    /\_/\___,   /
+											       \o-o/-o-o/   ~    / _/
+												) /     \    XXX
+											       _|    / \ \_/
+											    ,-/   _  \_/   \
+											   / (   /____,__|  )
+											  (  |_ (    )  \) _|
+											 _/ _)   \   \__/   (_
+											(,-(,(,(,/      \,),),)
+								     	      +-----------------------------------------+
+									      |             Tool Description:           |
+									      |  Scan a docker image for vulnerabilites |
+									      |    and save the scan results into a     |
+									      |            human-readable file.         |  
+									      +--------------------+--------------------+
+									      |       Tools:       |       Output:      |
+									      | 1.    Trivy        |  1.    Json        |
+									      | 2.    Dockle       |  2.    HTML        |
+									      | 3.    snyk         |  3. Compiled HTML  |
+									      +--------------------+--------------------+ 
+											     										
